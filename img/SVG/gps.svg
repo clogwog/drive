@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="43px" height="42px" viewBox="0 0 43 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>gps</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="48"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-175.000000, -176.000000)">
+            <g id="gps" transform="translate(172.000000, 173.000000)">
+                <g>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <path d="M44.8382596,3.76391821 L4.16675256,22.4301201 C3.83980724,22.5808919 3.64888428,22.9258643 3.69641016,23.2831278 C3.74393605,23.6403914 4.01843902,23.9239079 4.37324435,23.9829055 L22.6158103,27.0401311 L24.7012134,44.2789176 C24.7454617,44.63782 25.0199647,44.9270723 25.3764088,44.9877088 C25.4231153,44.9959029 25.4690024,45 25.5148894,45 C25.8221689,45 26.1097824,44.8271041 26.2490824,44.544407 L45.9149668,4.87258244 C46.0690162,4.56202535 46.0100185,4.18755413 45.768292,3.93845293 C45.5265655,3.68853232 45.1537332,3.61888231 44.8382596,3.76391821 Z" fill="#4C7BC1" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

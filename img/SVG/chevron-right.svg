@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="33px" height="47px" viewBox="0 0 33 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="48"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-741.000000, -230.000000)">
+            <g id="chevron-right" transform="translate(733.000000, 229.000000)">
+                <g id="Symbols">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <path d="M9.8370743,38.026651 C8.25966634,39.5734751 8.23247745,42.1094058 9.78176608,43.6963626 L12.6621142,46.6467411 C14.2089763,48.2312123 16.7482816,48.2587592 18.3191878,46.722569 L40.6827539,24.8532248 L17.9616329,2.63768711 C16.3820874,1.09328916 13.850359,1.12293006 12.3014407,2.70944199 L9.4217812,5.65899354 C7.87528891,7.24302061 7.90041092,9.78110099 9.4837358,11.3336843 L23.2709667,24.8532248 L9.8370743,38.026651 Z" fill="#4C7BC1" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+[submodule "libQtQmlTricks/SuperMacros"]
+	path = libQtQmlTricks/SuperMacros
+	url = http://gitlab.unique-conception.org/qt-qml-tricks/qt-supermacros.git
+[submodule "libQtQmlTricks/UiElements"]
+	path = libQtQmlTricks/UiElements
+	url = http://gitlab.unique-conception.org/qt-qml-tricks/qt-quick-ui-elements.git
+[submodule "libQtQmlTricks/SmartDataModels"]
+	path = libQtQmlTricks/SmartDataModels
+	url = http://gitlab.unique-conception.org/qt-qml-tricks/qt-qml-models.git

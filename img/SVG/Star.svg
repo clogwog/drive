@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="39px" viewBox="0 0 40 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Star</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="48"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-680.000000, -63.000000)">
+            <g id="Star" transform="translate(676.000000, 59.000000)">
+                <g id="Symbols">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <path d="M24.2282353,37.4141176 L16.2564706,41.6329412 C12.8164706,43.4541176 10.56,41.8282353 11.2211765,37.9576471 L12.7505882,29.0305882 L6.29411765,22.7152941 C3.50823529,19.9905882 4.38823529,17.3223529 8.21647059,16.7670588 L17.1364706,15.4729412 L21.1176471,7.34823529 C22.8352941,3.84235294 25.6141176,3.82352941 27.3388235,7.34823529 L31.32,15.4729412 L40.24,16.7670588 C44.0870588,17.3270588 44.9341176,20.0023529 42.16,22.7152941 L35.7035294,29.0329412 L37.2329412,37.96 C37.8917647,41.8117647 35.6211765,43.4470588 32.1976471,41.6352941 L24.2282353,37.4141176 L24.2282353,37.4141176 Z" fill="#4C7BC1" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

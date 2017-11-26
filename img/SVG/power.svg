@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="48px" height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<title>power</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="Artboard" transform="translate(-350.000000, -570.000000)">
+		<g id="power" transform="translate(340.000000, 564.000000)">
+			<g id="Fill-1">
+				<g id="Mask">
+				</g>
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="19.769" y="11" width="27.479" height="38">
+						<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="19.769" y="11" width="27.479" height="38" id="mask-2_1_">
+					<g filter="url(#Adobe_OpacityMaskFilter)">
+						<rect id="path-1_1_" x="9" y="5" fill="#FFFFFF" width="48" height="48"/>
+					</g>
+				</mask>
+				<path id="Combined-Shape" mask="url(#mask-2_1_)" fill="#4C7BC1" d="M47.126,25.455c-0.226-0.515-0.729-0.846-1.285-0.846
+					H35.252l4.355-11.676c0.164-0.438,0.104-0.931-0.158-1.316S38.754,11,38.291,11H27.816c-0.585,0-1.109,0.367-1.316,0.922
+					l-6.64,17.802c-0.164,0.438-0.104,0.93,0.158,1.317c0.263,0.386,0.696,0.616,1.158,0.616l11.75-0.071l-6.208,16.749
+					c-0.082,0.222,0.003,0.471,0.202,0.594c0.199,0.122,0.457,0.084,0.612-0.092L46.887,26.99
+					C47.259,26.571,47.352,25.97,47.126,25.455z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

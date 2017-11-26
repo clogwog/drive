@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="48px" height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<title>battery-mid</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="Artboard" transform="translate(-231.000000, -463.000000)">
+		<g id="battery-mid" transform="translate(228.000000, 452.000000)">
+			<g id="battery">
+				<g id="Mask">
+				</g>
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="5.1" y="22.458" width="42.973" height="25.968">
+						<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="5.1" y="22.458" width="42.973" height="25.968" id="mask-2">
+					<g filter="url(#Adobe_OpacityMaskFilter)">
+						<rect id="path-1" x="2.1" y="11.456" fill="#FFFFFF" width="48" height="48"/>
+					</g>
+				</mask>
+				<path id="Combined-Shape" mask="url(#mask-2)" fill="#4C7BC1" d="M44.967,29.847h-2.518v-2.125c0-2.903-2.35-5.264-5.238-5.264
+					H10.337c-2.889,0-5.237,2.361-5.237,5.264v15.439c0,2.903,2.349,5.265,5.237,5.265h26.874c2.889,0,5.238-2.361,5.238-5.265
+					v-2.124h2.518c1.715,0,3.105-1.397,3.105-3.122V32.97C48.072,31.245,46.682,29.847,44.967,29.847z M38.187,43.162
+					c0,0.541-0.437,0.98-0.976,0.98H10.337c-0.539,0-0.975-0.439-0.975-0.98V27.723c0-0.541,0.437-0.98,0.975-0.98h26.874
+					c0.539,0,0.976,0.44,0.976,0.98V43.162z M17.432,29.167h-4.599c-0.479,0-0.867,0.391-0.867,0.872v10.81
+					c0,0.48,0.389,0.871,0.867,0.871h4.599c0.479,0,0.867-0.391,0.867-0.871v-10.81C18.299,29.557,17.911,29.167,17.432,29.167z
+					 M26.725,29.167h-4.6c-0.479,0-0.867,0.391-0.867,0.872v10.81c0,0.48,0.388,0.871,0.867,0.871h4.6
+					c0.479,0,0.867-0.391,0.867-0.871v-10.81C27.592,29.557,27.203,29.167,26.725,29.167z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

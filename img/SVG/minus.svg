@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="12px" viewBox="0 0 40 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>minus</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="48"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-680.000000, -23.000000)">
+            <g id="minus" transform="translate(676.000000, 5.000000)">
+                <g id="Symbols">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <path d="M8.39047619,18.775 C6.24190476,18.775 4.48761905,20.4774 4.48761905,22.5769 L4.48761905,25.4231 C4.48761905,27.5207 6.23428571,29.225 8.39047619,29.225 L39.6114286,29.225 C41.7619048,29.225 43.5142857,27.5226 43.5142857,25.4231 L43.5142857,22.5769 C43.5142857,20.4774 41.7657143,18.775 39.6114286,18.775 L8.39047619,18.775 Z" fill="#4C7BC1" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="45px" height="28px" viewBox="0 0 45 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>messages</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="48"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-118.000000, -15.000000)">
+            <g id="messages" transform="translate(117.000000, 5.000000)">
+                <g id="Shape">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <path d="M44.0490917,10.9958178 C44.3678292,10.7936128 44.3680721,10.0000456 43.9685377,10.0000456 L2.97959843,10.0000456 C2.58132841,10.0000456 2.3219948,10.6316282 2.99108076,11.0559345 C7.31890498,13.8004597 23.4734359,24.0488783 23.4734359,24.0488783 C23.4734359,24.0488783 37.1905398,15.346838 44.0490917,10.9958178 Z M23.4734359,26.4571053 C23.2660826,26.4571053 23.057465,26.3989844 22.8766631,26.2852695 L1.34605916,12.6243306 L1.34605916,33.8270883 C1.34605916,36.0104126 3.14522819,37.7957351 5.34393158,37.7957351 L41.6042046,37.7957351 C43.802908,37.7957351 45.602077,36.0104126 45.602077,33.8270883 L45.602077,12.6243306 L24.0714731,26.2852695 C23.8894068,26.3989844 23.6820535,26.4571053 23.4734359,26.4571053 Z" fill="#4C7BC1" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

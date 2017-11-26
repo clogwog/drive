@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="28px" height="37px" viewBox="0 0 28 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>upload</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="48"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-854.000000, -233.000000)">
+            <g id="upload" transform="translate(844.000000, 228.000000)">
+                <g id="Shape">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <path d="M18.44084,19.2546346 L18.44084,32.2499267 C18.44084,32.9265112 18.9952749,33.4818941 19.6792051,33.4818941 L28.3751935,33.4818941 C29.0595017,33.4818941 29.6135586,32.9303235 29.6135586,32.2499267 L29.6135586,19.2546346 L33.3378475,19.2546346 C34.0255775,19.2546346 34.2582054,18.8030049 33.8622245,18.2458916 L24.744186,5.41754151 C24.3487616,4.861211 23.7061934,4.86042813 23.3102125,5.41754151 L14.1921741,18.2458916 C13.7967496,18.8022221 14.0309648,19.2546346 14.7165511,19.2546346 L18.44084,19.2546346 Z M10,36.990778 C10,36.4435864 10.4398131,36 10.9965348,36 L37.0034652,36 C37.5538362,36 38,36.4509752 38,36.990778 L38,41.009222 C38,41.5564136 37.5601869,42 37.0034652,42 L10.9965348,42 C10.4461638,42 10,41.5490248 10,41.009222 L10,36.990778 Z" id="Combined-Shape" fill="#4C7BC1" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

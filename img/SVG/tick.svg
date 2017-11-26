@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="39px" height="34px" viewBox="0 0 39 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>tick</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="48"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-625.000000, -12.000000)">
+            <g id="tick" transform="translate(620.000000, 5.000000)">
+                <g id="Symbols">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <path d="M42.5115214,9.26666667 L41.4696068,8.36772727 C39.736547,6.87893939 37.1330598,7.04378788 35.6026667,8.74121212 L18.1447521,28.1109091 L12.8728205,23.5698485 C11.142359,22.0784848 8.53887179,22.2407576 7.00847863,23.9356061 L6.08608547,24.9556061 C5.33777778,25.7875758 4.94803419,26.879697 5.00519658,27.9924242 C5.06235897,29.1077273 5.55863248,30.1534848 6.38748718,30.9030303 L16.0479316,39.7559091 C16.8845812,40.5440909 18.0044444,40.9510606 19.1502906,40.8892424 C20.2961368,40.8274242 21.3666325,40.2993939 22.1149402,39.4339394 L42.9558291,15.2037879 C43.6833504,14.3563636 44.0445128,13.2565152 43.9639658,12.1437879 C43.8782222,11.0284848 43.3559658,9.9930303 42.5115214,9.26666667 L42.5115214,9.26666667 L42.5115214,9.26666667 Z" fill="#4C7BC1" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

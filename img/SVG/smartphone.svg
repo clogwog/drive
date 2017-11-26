@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="48px" height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<title>smartphone</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="Artboard" transform="translate(-127.000000, -399.000000)">
+		<g id="smartphone" transform="translate(116.000000, 396.000000)">
+			<g>
+				<g id="Mask">
+				</g>
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="23.899" y="6" width="25.2" height="42">
+						<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="23.899" y="6" width="25.2" height="42" id="mask-2">
+					<g filter="url(#Adobe_OpacityMaskFilter)">
+						<rect id="path-1" x="12.6" y="3" fill="#FFFFFF" width="48" height="48"/>
+					</g>
+				</mask>
+				<path id="Shape" mask="url(#mask-2)" fill="#4C7BC1" d="M47,6H26c-1.16,0-2.1,0.94-2.1,2.1v37.8c0,1.16,0.94,2.1,2.1,2.1h21
+					c1.16,0,2.1-0.939,2.1-2.1V8.1C49.1,6.94,48.16,6,47,6z M37.984,45.285C37.588,45.682,37.061,45.9,36.5,45.9h-0.001
+					c-1.158-0.001-2.1-0.943-2.1-2.101s0.942-2.1,2.101-2.1s2.1,0.942,2.1,2.1C38.6,44.36,38.381,44.889,37.984,45.285z
+					 M45.949,39.6H27.05V12.3h18.899V39.6L45.949,39.6z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

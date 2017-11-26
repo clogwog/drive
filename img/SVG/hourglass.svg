@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="48px" height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<title>hourglass</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="Artboard" transform="translate(-910.000000, -401.000000)">
+		<g id="hourglass" transform="translate(900.000000, 396.000000)">
+			<g>
+				<g id="Mask">
+				</g>
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="20.061" y="10" width="27.909" height="38.937">
+						<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="20.061" y="10" width="27.909" height="38.937" id="mask-2_1_">
+					<g filter="url(#Adobe_OpacityMaskFilter)">
+						<rect id="path-1_1_" x="10" y="5" fill="#FFFFFF" width="48" height="48"/>
+					</g>
+				</mask>
+				<path id="Shape" mask="url(#mask-2_1_)" fill="#4C7BC1" d="M44.894,16.857h2.144c0.515,0,0.933-0.423,0.933-0.944v-4.969
+					c0-0.521-0.418-0.944-0.933-0.944H20.994c-0.516,0-0.934,0.423-0.934,0.944v4.969c0,0.521,0.418,0.944,0.934,0.944h2.143
+					c0.865,5.858,3.565,10.597,7.088,12.611c-3.522,2.012-6.223,6.752-7.088,12.611h-2.143c-0.516,0-0.934,0.423-0.934,0.944v4.969
+					c0,0.521,0.418,0.944,0.934,0.944h26.043c0.515,0,0.933-0.423,0.933-0.944v-4.969c0-0.521-0.418-0.944-0.933-0.944h-2.144
+					c-0.865-5.858-3.565-10.598-7.088-12.611C41.328,27.455,44.028,22.716,44.894,16.857z M35.654,32.938
+					c3.418,4.4,4.684,6.531,5.143,7.544c0.133,0.292,0.109,0.633-0.062,0.903c-0.172,0.271-0.468,0.436-0.785,0.436H28.082
+					c-0.318,0-0.614-0.164-0.786-0.436c-0.171-0.271-0.195-0.611-0.062-0.903c0.459-1.013,1.724-3.144,5.142-7.544l0.1-0.129v-5.77
+					l-0.125-0.136c-1.897-2.057-3.35-3.7-4.316-4.882c-0.28-0.343-0.286-0.837-0.014-1.187c0.272-0.349,0.749-0.458,1.144-0.263
+					c1.281,0.636,3.162,1.395,4.851,1.395c1.704,0,3.575-0.753,4.842-1.384c0.396-0.197,0.873-0.087,1.145,0.262
+					c0.273,0.35,0.268,0.844-0.013,1.187c-0.968,1.182-2.417,2.821-4.308,4.872l-0.127,0.136v5.77L35.654,32.938z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

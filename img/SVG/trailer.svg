@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="42px" height="33px" viewBox="0 0 42 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>trailer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="48"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-63.000000, -66.000000)">
+            <g id="trailer" transform="translate(60.000000, 59.000000)">
+                <g id="Shape">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <path d="M10.0761277,29.8016544 C7.29055846,29.8016544 5.03289692,32.0850621 5.03289692,34.9009553 C5.03289692,37.7168486 7.29055846,39.998334 10.0761277,39.998334 C12.8626662,39.998334 15.1196815,37.7168486 15.1196815,34.9009553 C15.1196815,32.0850621 12.8626662,29.8016544 10.0761277,29.8016544 L10.0761277,29.8016544 Z M42.7720615,7.32035631 L4.98983077,7.32035631 C3.89072308,7.32035631 3,8.22096796 3,9.33143398 L3,26.2242301 C3,27.3350165 3.89072308,28.2353078 4.98983077,28.2353078 L42.7720615,28.2353078 C43.8689077,28.2353078 44.7606,27.3350165 44.7606,26.2242301 L44.7606,9.33143398 C44.7606,8.22096796 43.8689077,7.32035631 42.7720615,7.32035631 L42.7720615,7.32035631 Z" fill="#4C7BC1" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

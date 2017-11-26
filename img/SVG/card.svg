@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="38px" height="29px" viewBox="0 0 38 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>card</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="48"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-401.000000, -238.000000)">
+            <g id="card" transform="translate(396.000000, 228.000000)">
+                <g>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <path d="M9.41860465,17.2495469 L38.5816991,17.2495469 L38.5816991,13.6247734 L9.41860465,13.6247734 L9.41860465,17.2495469 Z M9.41860465,35.3752266 L38.5816991,35.3752266 L38.5816991,24.5 L9.41860465,24.5 L9.41860465,35.3752266 Z M38.5816991,10 L9.41830087,10 C7.41331723,10 5.77287608,11.6306798 5.77287608,13.6247734 L5.77287608,35.3752266 C5.77287608,37.3693202 7.41331723,39 9.41830087,39 L38.5816991,39 C40.586379,39 42.2271239,37.3693202 42.2271239,35.3752266 L42.2271239,13.6247734 C42.2271239,11.6306798 40.586379,10 38.5816991,10 L38.5816991,10 Z" fill="#4C7BC1" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

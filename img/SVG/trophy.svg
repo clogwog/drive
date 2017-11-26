@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="48px" height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<title>trophy</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="Artboard" transform="translate(-624.000000, -568.000000)">
+		<g id="trophy" transform="translate(620.000000, 564.000000)">
+			<g>
+				<g id="Mask">
+				</g>
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="7" y="8" width="41" height="41">
+						<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="7" y="8" width="41" height="41" id="mask-2_1_">
+					<g filter="url(#Adobe_OpacityMaskFilter)">
+						<rect id="path-1_1_" x="3" y="4" fill="#FFFFFF" width="48" height="48"/>
+					</g>
+				</mask>
+				<path id="Shape" mask="url(#mask-2_1_)" fill="#4C7BC1" d="M48,16.969c0-2.053-0.799-3.984-2.252-5.436
+					c-2.16-2.161-5.292-2.739-7.998-1.784V9.281C37.75,8.574,37.176,8,36.469,8H18.531c-0.708,0-1.281,0.574-1.281,1.281v0.468
+					c-2.707-0.955-5.838-0.377-7.999,1.784C7.799,12.985,7,14.916,7,16.969s0.799,3.984,2.251,5.436
+					c0.016,0.016,0.035,0.026,0.052,0.042c0.015,0.015,0.026,0.033,0.042,0.047l8.75,7.908c0.402,0.365,4.657,3.606,6.843,4.17v4.18
+					l-1.281,5.125h-1.281c-1.415,0-2.562,1.147-2.562,2.562V49h15.375v-2.562c0-1.415-1.147-2.562-2.562-2.562h-1.281l-1.281-5.125
+					v-4.18c2.186-0.563,6.441-3.807,6.843-4.17l8.749-7.907c0.016-0.015,0.027-0.032,0.043-0.047
+					c0.016-0.016,0.035-0.026,0.051-0.042C47.201,20.953,48,19.022,48,16.969z M38.5,15.157c1-0.999,2.625-0.999,3.625,0
+					c0.483,0.484,0.75,1.127,0.75,1.812c0,0.678-0.263,1.314-0.737,1.796L37.75,22.73v-7.062
+					C38.021,15.545,38.277,15.38,38.5,15.157z M12.875,15.157c1-0.999,2.625-0.999,3.625,0c0.223,0.223,0.479,0.388,0.75,0.512
+					v7.062l-4.388-3.966c-0.475-0.482-0.737-1.118-0.737-1.796C12.125,16.284,12.392,15.641,12.875,15.157z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

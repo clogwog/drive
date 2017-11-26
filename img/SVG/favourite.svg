@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="43px" height="37px" viewBox="0 0 43 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>favourite</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="48"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-342.000000, -179.000000)">
+            <g id="favourite" transform="translate(340.000000, 173.000000)">
+                <g id="Shape">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <path d="M44.643715,17.534413 C44.643715,11.1640285 39.4878066,6 33.1277595,6 C28.9747663,6 25.3478968,8.20916742 23.3217277,11.5106955 C21.2958182,8.20916742 17.6673909,6 13.5144842,6 C7.1544371,6 2,11.1640285 2,17.534413 C2,21.0027295 3.53440485,24.1056544 5.95272175,26.2186844 L22.2708651,42.564044 C22.5495488,42.8431807 22.9275027,43 23.3217277,43 C23.7159526,43 24.0939066,42.8431807 24.3725903,42.564044 L40.6907336,26.2186844 C43.1091371,24.1056544 44.643715,21.0027295 44.643715,17.534413 L44.643715,17.534413 Z" fill="#4C7BC1" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

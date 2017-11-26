@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="47px" height="33px" viewBox="0 0 47 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron-down</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="48"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-453.000000, -13.000000)">
+            <g id="chevron-down" transform="translate(452.000000, 5.000000)">
+                <g id="Symbols">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <path d="M11.1313457,10.0334672 C9.58452164,8.45605923 7.04859087,8.42887034 5.46163412,9.97815897 L2.5112556,12.8585071 C0.926784404,14.4053692 0.899237549,16.9446745 2.43542772,18.5155807 L24.304772,40.8791468 L46.5203096,18.1580258 C48.0647076,16.5784802 48.0350667,14.0467519 46.4485547,12.4978336 L43.4990032,9.61817409 C41.9149761,8.07168181 39.3768957,8.09680381 37.8243124,9.68012869 L24.304772,23.4673596 L11.1313457,10.0334672 Z" fill="#4C7BC1" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
